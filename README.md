@@ -12,13 +12,6 @@
 `🍊 My personal blogging platform:`
 [FANTASY](https://igolang.cn)
 
-
-`language`
-* 🍇 Go
-* 🍈 Python
-* 🍉 JavaScript
-* 🍊 Shell
-
 `framework`
 * 🍋 Beego
 * 🍌 Gin
