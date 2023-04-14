@@ -14,17 +14,17 @@
 
 
 `language`
-* 🍇 Golang
+* 🍇 Go
 * 🍈 Python
 * 🍉 JavaScript
 * 🍊 Shell
 
 `framework`
 * 🍋 Beego
-* 🍌 Go-gin
+* 🍌 Gin
 * 🍍 Vue
 * 🥭 React
-* 🍎 Antd & Antd Pro 
+* 🍎 Antd & Antd Pro
 * 🍏 Procomponent
 * 🍐 Umijs
 * 🍑 Django & Django-rest-framework
