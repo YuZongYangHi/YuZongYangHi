@@ -9,5 +9,5 @@
 [FANTASY](https://igolang.cn)
 
 `how to get in touch with me`
-🗳 `Email`: 2747582092@qq.com
+* 🗳 Email: 2747582092@qq.com
 
