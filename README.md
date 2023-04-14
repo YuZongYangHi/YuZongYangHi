@@ -18,7 +18,7 @@
 * 🍉 JavaScript
 * 🍊 Shell
 
-`Framework`
+`framework`
 * 🍋 Beego
 * 🍌 Go-gin
 * 🍍 Vue
