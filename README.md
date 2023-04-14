@@ -5,6 +5,7 @@
 * 🐳 Love cloud native, Kubernetes
 * 📗 a full-stack engineer who can be considered
 * 🗳 Email: 2747582092@qq.com
+* 🍅 Music: [NetEase Cloud Music](https://music.163.com/#/artist?id=51129489)
 
 
 
