@@ -3,7 +3,7 @@
 * 📍 I work in Beijing, China
 * 🍉 Engaged in SRE & DevOps
 * 🐳 Love cloud native, Kubernetes
-* 📗 a full-stack engineer who can be considered
+* 📗 A full-stack engineer who thinks he is competent
 * 🗳 Email: 2747582092@qq.com
 * 🍅 Music: [NetEase Cloud Music](https://music.163.com/#/artist?id=51129489)
 
