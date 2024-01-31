@@ -21,4 +21,6 @@
 * 🍏 Procomponent
 * 🍐 Umijs
 * 🍑 Django & Django-rest-framework
-* 🥕 BootStrap + Jquery 
+* 🥕 BootStrap + Jquery
+* 🍊 Echo
+* 🍇 Gorm
